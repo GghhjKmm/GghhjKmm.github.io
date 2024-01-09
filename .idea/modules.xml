@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arry_double/Arry_double.iml" filepath="$PROJECT_DIR$/Arry_double/Arry_double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FInd_seq/FInd_seq.iml" filepath="$PROJECT_DIR$/FInd_seq/FInd_seq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Moudle_03/Moudle_03.iml" filepath="$PROJECT_DIR$/Moudle_03/Moudle_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New_work01.iml" filepath="$PROJECT_DIR$/New_work01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New_work_module_01/New_work_module_01.iml" filepath="$PROJECT_DIR$/New_work_module_01/New_work_module_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New_work_module_02/New_work_module_02.iml" filepath="$PROJECT_DIR$/New_work_module_02/New_work_module_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object01/Object01.iml" filepath="$PROJECT_DIR$/Object01/Object01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort_Bubble/Sort_Bubble.iml" filepath="$PROJECT_DIR$/Sort_Bubble/Sort_Bubble.iml" />
+    </modules>
+  </component>
+</project>
